@@ -1,0 +1,10 @@
+{
+  "application_name": "FluffyChat for FB",
+  "application_welcome_message": "Welcome to Fresh/Brewed",
+  "default_homeserver": "matrix.freshbrewed.science",
+  "web_base_url": "https://freshbrewed.science/",
+  "privacy_url": "https://fluffychat.im/en/privacy.html",
+  "render_html": true,
+  "hide_redacted_events": false,
+  "hide_unknown_events": false
+}
