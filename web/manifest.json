@@ -1,7 +1,8 @@
 {
     "name": "FluffyChat",
     "short_name": "FluffyChat",
-    "start_url": ".",
+    "start_url": "matrix.freshbrewed.science",
+    "default_homeserver": "matrix.freshbrewed.science",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
